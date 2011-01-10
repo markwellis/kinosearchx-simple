@@ -5,8 +5,6 @@ use warnings;
 sub new{
     my ( $incovant, $data ) = @_;
 
-use Data::Dumper;
-
     my $class = ref( $incovant ) || $incovant;
     my $self = bless( $data, $class );
 
