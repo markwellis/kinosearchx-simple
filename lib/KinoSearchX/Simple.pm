@@ -1,6 +1,6 @@
 package KinoSearchX::Simple;
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 $VERSION = eval $VERSION;
 
 use 5.008;
